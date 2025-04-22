@@ -1,4 +1,4 @@
-# Dev-Jam-Pitching
+# Dev/Game Jam Pitching
 
 Level up your leadership and pitching skills! Use this guide to organize your idea and to atttract dev/game jam success chances by attracting the best team members and show them you're a solid team lead!
 
@@ -12,7 +12,7 @@ _Don't leave your jam success to chance use this approach to pitch with confiden
 
 **Goal:** Attract team members to bring your vision to life by pitching clearly and confidently.
 
-### Elements of the Pitch
+### Planning the Pitch
 
 1. **Clear Concept:** Core idea, genre, gameplay, functionality. Tie to the theme (if known) or stay flexible.
 
@@ -53,7 +53,9 @@ _Don't leave your jam success to chance use this approach to pitch with confiden
 
    > Example: Build a portfolio piece in 48 hours.
 
-## Pitch Structure Template (4-5 Minutes):
+### Executing the Pitch
+
+Duration 4-5 Minutes
 
 1. Intro (30 sec): "Hi, I'm [Name], pitching [Game Title]."
 
@@ -66,6 +68,8 @@ _Don't leave your jam success to chance use this approach to pitch with confiden
 1. Vision (30 sec): Goals and leadership plan.
 
 1. Call to Action (30 sec): "Join me to make this happen!"
+
+[Blank Pitch Template](pitch_template_blank.md)
 
 ## Post Pitch Advice
 
