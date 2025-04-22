@@ -1,10 +1,26 @@
-# Dev/Game Jam Pitching
+# Dev/Game Jam Planning and Pitching
 
 Level up your leadership and pitching skills! Use this guide to organize your idea and to atttract dev/game jam success chances by attracting the best team members and show them you're a solid team lead!
 
 This guide and quick-reference will structure how you pitch your concept. Attract a skilled and balanced team that aligns with your vision by following this structured approach. You'll maximize your chances of assembling the perfect team to create the project that will stand out the at your.
 
 _Don't leave your jam success to chance use this approach to pitch with confidence and direction._
+
+---
+
+## 1. Introduction to Game Jams and Pitching
+
+#### What is a Game Jam?
+
+A time-constrained event (often a weekend) where participants create games, typically around a theme or constraint announced at the start.
+
+#### Why Pitching Matters
+
+A compelling pitch attracts skilled team members—programmers, artists, designers, etc.—to turn your idea into reality. Without a strong pitch, you risk working alone or with an incomplete team.
+
+#### Objective
+
+Equip team leads with the tools to pitch effectively in just a few minutes.
 
 ---
 
@@ -69,7 +85,7 @@ Duration 4-5 Minutes
 
 1. Call to Action (30 sec): "Join me to make this happen!"
 
-[Blank Pitch Template](pitch_template_blank.md)
+[Blank Project/Pitch Template](pitch_template_blank.md)
 
 ## Post Pitch Advice
 

@@ -7,7 +7,6 @@
 ## Roles
 
 - Role Name
-  > Potential Similar Roles
 
 Tasks by Role
 
