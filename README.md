@@ -1,10 +1,14 @@
 # Dev-Jam-Pitching
 
-Save time and boost your game jam success! This guide and quick-reference one-sheet will strucutre how you pitch your idea. Leverage proven strategies to attract a skilled, balanced team that aligns with your vision. By following our structured approach, you'll maximize your chances of assembling the perfect team to create the project that stands out the most at the event. Don't leave your jam success to chance - use this tool to pitch with confidence and direction.
+Level up your leadership and pitching skills! Use this guide to organize your idea and to atttract dev/game jam success chances by attracting the best team members and show them you're a solid team lead!
+
+This guide and quick-reference will structure how you pitch your concept. Attract a skilled and balanced team that aligns with your vision by following this structured approach. You'll maximize your chances of assembling the perfect team to create the project that will stand out the at your.
+
+_Don't leave your jam success to chance use this approach to pitch with confidence and direction._
 
 ---
 
-## One Sheet
+## Quick Reference
 
 **Goal:** Attract team members to bring your vision to life by pitching clearly and confidently.
 
@@ -20,16 +24,28 @@ Save time and boost your game jam success! This guide and quick-reference one-sh
 
 1. **Roles**
 
-   - Developer: Game Developer, Software Developer, or Engineer
-   - Designer: Game Designer, UX Designer, Experience Designer
-   - Business Analyst, Marketing Manager, or Media Relations Specialist
-   - Artist or Animator
-   - Information Technology or Cybersecurity Analyst
+   - Developer
+     > Game Developer, Software Developer, or Engineer
+   - Designer
+     > Game Designer, UX Designer, Experience Designer
+   - Marketing
+     > Business Analyst, Marketing Manager, or Media Relations Specialist
+   - Artist
+     > Artist or Animator
+   - IT
+     > Information Technology or Cybersecurity Analyst
    - Researcher
 
-1. **Define tasks**
+1. **Define Tasks by Role**
 
-   - [ ] Artist designs characters
+   A detailed/comprehensive list will better allow for break down responsibilities and communication of fine grained vision among the team.
+
+   - [Artist] Designs Characters
+   - [Designer] Model Characters
+   - [Designer] Design UI
+   - [Developer] Apply UI Design
+
+   > Recomendation: Once created, migrate these to a task management solution like trello or alternative.
 
 1. **Vision and Goals**
 
