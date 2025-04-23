@@ -68,19 +68,49 @@ Assure feasibility: “I’ll manage tasks to fit the weekend timeline.”
 
 #### Public Speaking Tips
 
-- Speak clearly, at a moderate pace, with eye contact and gestures.
+- Speak clearly, at a moderate pace, with eye contact and gestures
 
-- Keep it concise—aim for 4-5 minutes total.
+- Keep it concise—aim for 4-5 minutes total
 
 #### Engage the Audience
 
 - Start with a hook: “What if you could outrun your own shadow?”
 
-- Use storytelling to make it relatable.
+- Use storytelling to make it relatable
 
-- Use Visuals (If Possible): Sketches, concept art, or a quick prototype to bring your idea to life.
+- Use Visuals (If Possible): Sketches, concept art, or a quick prototype to bring your idea to life
 
 > Example: “Here’s a doodle of our time-bending protagonist.”
+
+## 5. Handling Questions and Feedback (5 minutes)
+
+#### Prepare for Questions
+
+- How does this fit the theme?
+- Is this doable in 48 hours?
+- What engine/platform/libraries are being used?
+
+> Have short, confident answers ready.
+
+#### Be Open
+
+- Show flexibility: “The story’s open to team ideas!”
+- Collaboration attracts joiners, don’t sound rigid
+
+## 6. Building Your Team (5 minutes)
+
+#### After the Pitch
+
+- Be approachable—smile, invite questions, and chat with interested folks
+
+- Have a clear idea of what you need (skills, vibe)
+
+#### Evaluate Fit
+
+- Look beyond skills to personality and enthusiasm
+- Team chemistry matters in a jam
+
+> Example: “Are they excited and willing to crunch with us?”
 
 ---
 
