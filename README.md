@@ -8,19 +8,79 @@ _Don't leave your jam success to chance use this approach to pitch with confiden
 
 ---
 
-## 1. Introduction to Game Jams and Pitching
+## 1. Introduction to Jams and Pitching (5 min)
 
-#### What is a Game Jam?
+#### What is a Jam?
 
-A time-constrained event (often a weekend) where participants create games, typically around a theme or constraint announced at the start.
+A time-constrained event (often a weekend) where participants create applications or games, typically around a theme or constraint announced at the start.
 
 #### Why Pitching Matters
 
-A compelling pitch attracts skilled team members—programmers, artists, designers, etc.—to turn your idea into reality. Without a strong pitch, you risk working alone or with an incomplete team.
+A compelling pitch attracts skilled team members as it shows that you have refined an idea to the point it is ready for development and should inspire programmers, artists, designers, etc. to help turn your idea into reality. Without a strong pitch you risk working with an incomplete team, alone, or not quailifying for the event.
 
-#### Objective
+A well thought through pitch will help define your idea.
 
-Equip team leads with the tools to pitch effectively in just a few minutes.
+> Objective: Equip team leads with the tools to pitch effectively in just a few minutes.
+
+## 2. Understanding Your Audience (5 minutes)
+
+#### Who Are They?
+
+Fellow game jam participants seeking projects to join. Some experienced, others beginners.
+
+#### What They Want
+
+- An exciting or innovative game idea.
+- A role that matches their skills (e.g., coding, art) or offers learning opportunities.
+- A clear plan and an organized, enthusiastic leader.
+
+> Takeaway: Tailor your pitch to address these desires and show how your project meets them.
+
+## Crafting Your Pitch (10 minutes)
+
+#### Define Your Game Idea Clearly
+
+- Summarize the core concept: genre (e.g., platformer, puzzle), gameplay mechanics, and story (if any).
+
+- Tie it to the jam’s theme if known, or show flexibility if it’s TBD.
+
+> Example: A puzzle game where players manipulate time to escape a haunted mansion, inspired by a jam's theme: rewind
+
+#### Highlight Unique Aspects
+
+What’s the “hook”? A novel mechanic, art style, or creative twist.
+
+> Example: “Our game uses gravity shifts as a core mechanic”
+
+#### Outline Roles Needed
+
+List specific roles (e.g., programmer, artist, sound designer) and platforms (e.g., Unity, Unreal, Godot).
+
+Describe responsibilities briefly: “Programmer: Implement mechanics in C++.”
+
+#### Show Leadership and Vision
+
+Share your goals: Win the jam, learn a skill, create a portfolio piece.
+
+Assure feasibility: “I’ll manage tasks to fit the weekend timeline.”
+
+## 4. Delivering Your Pitch (10 minutes)
+
+#### Public Speaking Tips
+
+- Speak clearly, at a moderate pace, with eye contact and gestures.
+
+- Keep it concise—aim for 4-5 minutes total.
+
+#### Engage the Audience
+
+- Start with a hook: “What if you could outrun your own shadow?”
+
+- Use storytelling to make it relatable.
+
+- Use Visuals (If Possible): Sketches, concept art, or a quick prototype to bring your idea to life.
+
+> Example: “Here’s a doodle of our time-bending protagonist.”
 
 ---
 
@@ -30,44 +90,45 @@ Equip team leads with the tools to pitch effectively in just a few minutes.
 
 ### Planning the Pitch
 
-1. **Clear Concept:** Core idea, genre, gameplay, functionality. Tie to the theme (if known) or stay flexible.
+1.  **Clear Concept:** Core idea, genre, gameplay, functionality. Tie to the theme (if known) or stay flexible.
 
-   > Example: A stealth game where shadows are your weapon.
+    > Example: A stealth game where shadows are your weapon.
 
-1. **Unique Selling Point:** Highlight the hook—novel mechanic, style, or twist that makes your approach memorable/unique.
+1.  **Unique Selling Point:** Highlight the hook—novel mechanic, style, or twist that makes your approach memorable/unique.
 
-   > Example: Play as both hunter and hunted!
+    > Example: Play as both hunter and hunted!
 
-1. **Roles**
+1.  **Roles**
 
-   - Developer
-     > Game Developer, Software Developer, or Engineer
-   - Designer
-     > Game Designer, UX Designer, Experience Designer
-   - Marketing
-     > Business Analyst, Marketing Manager, or Media Relations Specialist
-   - Artist
-     > Artist or Animator
-   - IT
-     > Information Technology or Cybersecurity Analyst
-   - Researcher
+    - Developer
+      > Game Developer, Software Developer, or Engineer
+    - Designer
+      > Game Designer, UX Designer, Experience Designer
+    - Marketing
+      > Business Analyst, Marketing Manager, or Media Relations Specialist
+    - Artist
+      > Artist or Animator
+    - Audio
+      > Composers or Audio Engineers
+    - IT
+      > Information Technology or Cybersecurity Analyst
+    - Researcher
 
-1. **Define Tasks by Role**
+1.  **Define Tasks by Role**
 
-   A detailed/comprehensive list will better allow for break down responsibilities and communication of fine grained vision among the team.
+    A detailed/comprehensive list will better allow for break down responsibilities and communication of fine grained vision among the team.
 
-   - [Artist] Designs Characters
-   - [Designer] Model Characters
-   - [Designer] Design UI
-   - [Developer] Apply UI Design
+    - [Artist] Designs Characters
+    - [Designer]
+    - [Developer] UI Implementation
 
-   > Recomendation: Once created, migrate these to a task management solution like trello or alternative.
+    > Recomendation: Once created, migrate these to a task management solution like trello or alternative.
 
-1. **Vision and Goals**
+1.  **Vision and Goals**
 
-   State Objectives
+    State Objectives
 
-   > Example: Build a portfolio piece in 48 hours.
+    > Example: Build a portfolio piece in 48 hours.
 
 ### Executing the Pitch
 
