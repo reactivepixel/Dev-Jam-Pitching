@@ -8,7 +8,7 @@ _Don't leave your jam success to chance use this approach to pitch with confiden
 
 ---
 
-## 1. Introduction to Jams and Pitching (5 min)
+## 1. Introduction to Jams and Pitching
 
 #### What is a Jam?
 
@@ -22,69 +22,65 @@ A well thought through pitch will help define your idea.
 
 > Objective: Equip team leads with the tools to pitch effectively in just a few minutes.
 
-## 2. Understanding Your Audience (5 minutes)
+## 2. Understanding Your Audience
 
 #### Who Are They?
 
-Fellow game jam participants seeking projects to join. Some experienced, others beginners.
+Fellow game jam participants seeking projects to join. Some experienced, others beginners. You may even pick up a half formed team from another idea/pitch that failed to attract a whole time.
 
 #### What They Want
 
-- An exciting or innovative game idea.
-- A role that matches their skills (e.g., coding, art) or offers learning opportunities.
+- An exciting or innovative dev/game idea.
+- A role that matches their skills or offers learning opportunities.
 - A clear plan and an organized, enthusiastic leader.
 
-> Takeaway: Tailor your pitch to address these desires and show how your project meets them.
+> Takeaway: Tailor your pitch to address these desires and show how your project meets them. Assure that you have the plan that will succeed.
 
-## Crafting Your Pitch (10 minutes)
+## 3. Crafting Your Plan
 
 #### Define Your Game Idea Clearly
 
 - Summarize the core concept: genre (e.g., platformer, puzzle), gameplay mechanics, and story (if any).
 
-- Tie it to the jam’s theme if known, or show flexibility if it’s TBD.
+- Tie it to the jam's theme if known, or show flexibility if it's TBD.
 
 > Example: A puzzle game where players manipulate time to escape a haunted mansion, inspired by a jam's theme: rewind
 
 #### Highlight Unique Aspects
 
-What’s the “hook”? A novel mechanic, art style, or creative twist.
+What's the hook? A novel mechanic, art style, or creative twist.
 
-> Example: “Our game uses gravity shifts as a core mechanic”
+> Example: Our game uses gravity shifts as a core mechanic
 
 #### Outline Roles Needed
 
 List specific roles (e.g., programmer, artist, sound designer) and platforms (e.g., Unity, Unreal, Godot).
 
-Describe responsibilities briefly: “Programmer: Implement mechanics in C++.”
+Describe responsibilities briefly: Programmer: Implement mechanics in C++.
 
 #### Show Leadership and Vision
 
 Share your goals: Win the jam, learn a skill, create a portfolio piece.
 
-Assure feasibility: “I’ll manage tasks to fit the weekend timeline.”
+Assure feasibility: I'll manage tasks to fit the weekend timeline.
 
-## 4. Delivering Your Pitch (10 minutes)
-
-#### Public Speaking Tips
-
-- Speak clearly, at a moderate pace, with eye contact and gestures
-
-- Keep it concise—aim for 4-5 minutes total
+## 4. Delivering Your Pitch
 
 #### Engage the Audience
 
-- Start with a hook: “What if you could outrun your own shadow?”
+- Start with a hook: What if you could outrun your own shadow?
 
 - Use storytelling to make it relatable
 
 - Use Visuals (If Possible): Sketches, concept art, or a quick prototype to bring your idea to life
 
-> Example: “Here’s a doodle of our time-bending protagonist.”
+- Keep it concise—aim for 4-5 minutes total
 
-## 5. Handling Questions and Feedback (5 minutes)
+> Example: Here's a doodle of our time-bending protagonist.
 
-#### Prepare for Questions
+## 5. Handling Questions and Feedback
+
+#### Assume Questions Understand
 
 - How does this fit the theme?
 - Is this doable in 48 hours?
@@ -94,10 +90,10 @@ Assure feasibility: “I’ll manage tasks to fit the weekend timeline.”
 
 #### Be Open
 
-- Show flexibility: “The story’s open to team ideas!”
-- Collaboration attracts joiners, don’t sound rigid
+- Show flexibility: The story's open to team ideas!
+- Collaboration attracts joiners, don't sound rigid
 
-## 6. Building Your Team (5 minutes)
+## 6. Building Your Team
 
 #### After the Pitch
 
@@ -110,7 +106,7 @@ Assure feasibility: “I’ll manage tasks to fit the weekend timeline.”
 - Look beyond skills to personality and enthusiasm
 - Team chemistry matters in a jam
 
-> Example: “Are they excited and willing to crunch with us?”
+> Example: Are they excited and willing to crunch with us?
 
 ---
 
@@ -164,7 +160,7 @@ Assure feasibility: “I’ll manage tasks to fit the weekend timeline.”
 
 Duration 4-5 Minutes
 
-1. Intro (30 sec): "Hi, I'm [Name], pitching [Game Title]."
+1. Intro (30 sec): Hi, I'm [Name], pitching [Game Title].
 
 1. Concept (1 min): Explain the game and theme connection.
 
@@ -174,7 +170,7 @@ Duration 4-5 Minutes
 
 1. Vision (30 sec): Goals and leadership plan.
 
-1. Call to Action (30 sec): "Join me to make this happen!"
+1. Call to Action (30 sec): Join me to make this happen!
 
 [Blank Project/Pitch Template](pitch_template_blank.md)
 
@@ -187,11 +183,11 @@ Duration 4-5 Minutes
 
 - Have an End Slide (Team Name with Contact Info)
 - Keep it to 4-5 minutes
-- Hook them early: "Ever wanted to defy physics?"
+- Hook them early: Ever wanted to defy physics?
 - Show visuals (sketches, prototypes) if you can
 - Expect Questions
 - Stay approachable post-pitch—talk to interested folks
 - Scope Small, plan larger features as potential v2
 - Clear roles or goals
-- Show leadership, "Fake it till you make it."
+- Show leadership, Fake it till you make it.
 - **Practice the Pitch**
