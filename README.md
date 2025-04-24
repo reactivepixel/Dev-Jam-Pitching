@@ -8,6 +8,8 @@ _Don't leave your jam success to chance use this approach to pitch with confiden
 
 ---
 
+# Content
+
 ## 1. Introduction to Jams and Pitching
 
 #### What is a Jam?
